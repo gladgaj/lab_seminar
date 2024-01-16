@@ -1,5 +1,10 @@
 # IBS-LAB 2023 summer seminar
-'23 code & slide files for lab seminar
+**Python for Deep Learning: From Basics to Advanced Applications** is a comprehensive course designed to guide learners through the fundamentals of Python programming to advanced deep learning techniques. The course begins with an introduction to tensors in Python, crucial for data manipulation in deep learning. Following this, students learn essential file I/O operations in Python, laying the groundwork for data handling and preprocessing.
+
+The course then delves into object-oriented programming, providing a strong foundation for structuring deep learning models. A practical demonstration using the MNIST dataset introduces learners to model building and training in deep learning. Finally, the course culminates in an exploration of remote photoplethysmography, showcasing the application of deep learning in advanced real-world scenarios such as non-invasive heart rate monitoring.
+
+The last segment of this course is particularly beneficial for those who have some prior knowledge of deep learning, offering an opportunity to apply their understanding in a sophisticated yet accessible context. Emphasizing hands-on coding practice, this part of the curriculum is designed to reinforce learning through practical application, ensuring that students can confidently navigate the complexities of deep learning without feeling overwhelmed.
+
 
 ## **Week1**: Introduction to Tensor
 ![week1](https://github.com/SookmyungHumanAI/lab_seminar_2023_summer/assets/100949059/87590993-302f-4d10-b703-c6b4274b0897)
